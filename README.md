@@ -1,0 +1,2 @@
+# gojpd
+Japanese Dictionary
